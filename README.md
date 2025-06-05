@@ -101,7 +101,7 @@ For detailed step-by-step insights, use the Jupyter notebook `Code.ipynb`.
 ## 👤 Contact
 
 Created by **Uchit Bhadauriya**  
-University of Bristol | ir23063@bristol.ac.uk  
+University of Bristol | uchitbhadauriya540@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/uchit-bhadauriya-a96478204)
 
 ---
